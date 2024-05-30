@@ -150,9 +150,6 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
-## Bugs
-No known bugs at this time.
-
 ## Authors
 Jahaziel A. Serrano - [Github](https://github.com/jahzserrano)
 Javier Marrero - [Github](https://github.com/xov121)
